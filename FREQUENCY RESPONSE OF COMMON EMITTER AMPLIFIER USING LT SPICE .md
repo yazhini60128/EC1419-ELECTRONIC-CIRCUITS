@@ -13,6 +13,7 @@
 
 
 ## CIRCUIT DIAGRAM
+<img width="1387" height="969" alt="image" src="https://github.com/user-attachments/assets/c915dbd1-4d15-4381-a481-8cf55c112252" />
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
 
@@ -23,14 +24,18 @@
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
+<img width="1490" height="1108" alt="image" src="https://github.com/user-attachments/assets/4a2fa4e7-88ab-41c4-8ac9-4bd1f1ae16fa" />
 
 ## Tabulation
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c36f182c-3ea2-4dd3-a5e4-89a38da47097" />
 
 ## Graph
+<img width="1490" height="1108" alt="image" src="https://github.com/user-attachments/assets/b57dd87b-5ee0-4506-b219-bfa1285b7f0a" />
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+<img width="1089" height="1600" alt="image" src="https://github.com/user-attachments/assets/2f5db846-7acc-4098-b146-308946bed23e" />
 
 **VOLTAGE GAIN =**
 
